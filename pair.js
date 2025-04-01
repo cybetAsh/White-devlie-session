@@ -79,7 +79,7 @@ var randomItem = selectRandomItem(items);
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*_The White-devil Made Free Bots Connecte Session Id_* 🇱🇰🔥
 
-*Go This Website = ඒක හදනවා*
+*Go This Website = https://white-devil-free-whatsapp-bots-host.vercel.app/*
 
 *& Enter Your Session Id , Name & Number...Then Submit*💫💕
 
@@ -113,7 +113,7 @@ renderLargerThumbnail: true
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*_The White-devil Made Free Bots Connecte Session Id_* 🇱🇰🔥
 
-*Go This Website = ඒක හදනවා*
+*Go This Website = https://white-devil-free-whatsapp-bots-host.vercel.app/*
 
 *& Enter Your Session Id , Name & Number...Then Submit*💫💕
 
